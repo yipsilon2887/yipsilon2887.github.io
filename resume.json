@@ -1,0 +1,263 @@
+{
+  "zh": {
+    "title": "个人履历",
+    "headline": "硕士在读 · 行为研究 · HCI · 数据科学",
+    "education": "教育与专业背景",
+    "research": "研究与学术经历",
+    "internships": "实习经历",
+    "recognition": "奖学金与其他荣誉",
+    "skills": "技能、语言与活动",
+    "programming": "编程",
+    "methods": "研究方法",
+    "methodsText": "实验设计、行为日志、时间序列分析、可复现分析、Web 实验平台开发",
+    "background": "统计与数据科学（经济领域）",
+    "researchBullets": [
+      [
+        "研究信息量与购买素养干预如何影响商品比较与选择，关注决策过程及其心理机制。",
+        "正在开发连接模拟电商与问卷的实验平台，为真人预实验做准备。"
+      ],
+      [
+        "分析 Wikipedia 与 Reddit 对话中的回复时间和回复结构，关注网络讨论的互动节奏及测量偏差。",
+        "正在核查数据与测量方法，并探索描述对话时间动态的模型。"
+      ],
+      [
+        "在 HCI 团队课程项目中，探索通过触摸、轻敲与摇晃产生的声音和振动感知物体内部状态的交互方式。"
+      ]
+    ],
+    "entries": [
+      {
+        "title": "信息过载下的在线购买决策",
+        "status": "个人研究项目 · 进行中",
+        "bullets": [
+          "通过2×2在线购物实验，研究信息过载与决策引导如何影响信息搜索及符合个人目标的商品选择，结合浏览行为、购买选择和问卷作答进行分析。",
+          "开发连接Qualtrics与Supabase的Next.js/TypeScript购物任务，记录浏览路径与交互行为；建立Python数据检查流程，并已开始真人预实验验证。"
+        ]
+      },
+      {
+        "title": "网络讨论的互动节奏与演化：回复时间、回复结构及其测量偏差",
+        "status": "合作研究 · 进行中",
+        "bullets": [
+          "分析Wikipedia与Reddit讨论的回复时间及对话结构，考察测量定义和样本选择如何影响对互动规律的判断。",
+          "在4,582组Reddit对话上比较TF-IDF与冻结的DistilBERT分类器，按帖子进行bootstrap重采样，评估时间特征是否提供文本之外的预测信息。"
+        ]
+      },
+      {
+        "title": "社会情報学会2026年度大会",
+        "status": "第一作者、报告人 · 2026年9月13日",
+        "bullets": [
+          "获研究発表優秀賞（Best Presentation Award）。论文及大会予稿已录用，并作口头报告。",
+          "论文：オンライン購買環境における情報過負荷と購買識別力：注意配分過程に着目した先行研究レビュー。",
+          "提出以个人目标与约束为基础的购买识别力概念，梳理五类研究方向的29篇文献，建立连接信息呈现、注意分配、搜索行为与选择质量的概念框架。"
+        ]
+      },
+      {
+        "title": "手游消费行为分析",
+        "status": "过往研究项目",
+        "bullets": [
+          "研究中日美手游消费行为，比较机器学习模型与适用于区间删失结果的方法，处理消费金额按区间而非精确数值记录的数据。"
+        ]
+      }
+    ],
+    "awards": [
+      "优秀学生奖学金；暨通88计算机与统计奖学金。",
+      "冈谷钢机杯日语演讲比赛高级组二等奖（2025年4月）；粤港澳大湾区金融数学建模竞赛三等奖（2022年12月）。",
+      "国家级大学生创新项目获立项资助（2023、2024年）。"
+    ],
+    "skillRows": [
+      [
+        "编程与常用库",
+        "Python、R、SQL、JavaScript/TypeScript、Stata；PyTorch、NumPy、pandas、scikit-learn。"
+      ],
+      [
+        "机器学习与研究方法",
+        "特征工程、统计建模、时间序列分析、实验设计、交叉验证。"
+      ],
+      [
+        "NLP与文本处理",
+        "日语分词与形态素分析、词频分析、文本挖掘、情感分析、LLM辅助信息提取。"
+      ],
+      [
+        "Web开发与工具",
+        "Next.js/React、HTML/CSS、Supabase/PostgreSQL、Qualtrics、Playwright/CDP、Git/GitHub、Linux、Docker、LaTeX。"
+      ],
+      [
+        "兴趣",
+        "音乐与现场演出、动漫、书法、游泳。"
+      ]
+    ]
+  },
+  "ja": {
+    "title": "経歴・プロフィール",
+    "headline": "修士課程 · 行動研究 · HCI · データサイエンス",
+    "education": "所属・専門分野",
+    "research": "研究・学術活動",
+    "internships": "インターンシップ",
+    "recognition": "奨学金・その他の受賞",
+    "skills": "スキル・語学・活動",
+    "programming": "プログラミング",
+    "methods": "研究手法",
+    "methodsText": "実験設計、行動ログ、時系列分析、再現可能な分析、Web実験システム開発",
+    "background": "統計・データサイエンス（経済分野）",
+    "researchBullets": [
+      [
+        "情報量と購買リテラシーへの介入が商品比較・選択に与える影響を、意思決定過程と心理メカニズムから検討。",
+        "模擬ECサイトと質問紙を接続する実験プラットフォームを開発中。参加者を対象とした予備実験を準備。"
+      ],
+      [
+        "WikipediaとRedditの対話における返信時間と返信構造を調べ、議論の時間的展開と測定バイアスを検討。",
+        "データと測定方法を精査し、対話の時間的動態を記述するモデルを探索中。"
+      ],
+      [
+        "HCIのチーム授業プロジェクトで、触れる・軽くたたく・振る際の音と振動から物体の内部状態を知覚するインタラクションを構想。"
+      ]
+    ],
+    "entries": [
+      {
+        "title": "情報過負荷下のオンライン購買意思決定",
+        "status": "個人研究プロジェクト · 進行中",
+        "bullets": [
+          "2×2のオンライン購買実験を通じて、情報過負荷と意思決定支援が情報探索や目標に沿った商品選択に与える影響を検討。閲覧行動、購買選択、質問紙回答を組み合わせて分析する。",
+          "Qualtrics・Supabaseと連携するNext.js/TypeScriptの購買課題を開発し、閲覧経路と操作を記録。Pythonによるデータ検査フローを構築し、参加者を対象とした予備検証を開始。"
+        ]
+      },
+      {
+        "title": "オンライン議論のリズムと展開：返信時間・返信構造・測定バイアス",
+        "status": "共同研究 · 進行中",
+        "bullets": [
+          "WikipediaとRedditの返信時間・対話構造を分析し、測定の定義やサンプル選択が議論のパターンの解釈に及ぼす影響を検討。",
+          "Redditの対話4,582組でTF-IDFと重みを固定したDistilBERT分類器を比較。投稿単位のブートストラップにより、時間特徴がテキスト以外の予測情報を加えるか評価。"
+        ]
+      },
+      {
+        "title": "2026年社会情報学会大会",
+        "status": "筆頭著者・発表者 · 2026年9月13日",
+        "bullets": [
+          "研究発表優秀賞を受賞。論文・大会予稿が採択され、口頭発表を実施。",
+          "論文：オンライン購買環境における情報過負荷と購買識別力：注意配分過程に着目した先行研究レビュー。",
+          "個人の目標と制約に基づく購買識別力の概念を提案。5領域の先行研究29件を整理し、情報提示・注意配分・探索行動・選択の質を結ぶ概念的枠組みを構築。"
+        ]
+      },
+      {
+        "title": "モバイルゲームの消費行動分析",
+        "status": "過去の研究プロジェクト",
+        "bullets": [
+          "中国・日本・米国のモバイルゲーム消費行動を分析。支出額が正確な数値ではなく区間で記録されるデータに対し、機械学習モデルと区間打ち切りデータに対応した手法を比較。"
+        ]
+      }
+    ],
+    "awards": [
+      "優秀学生奨学金、暨通88コンピュータ・統計奨学金。",
+      "岡谷鋼機杯日本語スピーチコンテスト上級部門第2位（2025年4月）、粤港澳大湾区金融数学モデリングコンテスト第3位（2022年12月）。",
+      "国家級大学生イノベーションプログラムの研究助成に採択（2023年・2024年）。"
+    ],
+    "skillRows": [
+      [
+        "プログラミング・ライブラリ",
+        "Python、R、SQL、JavaScript/TypeScript、Stata；PyTorch、NumPy、pandas、scikit-learn。"
+      ],
+      [
+        "機械学習・研究手法",
+        "特徴量設計、統計モデリング、時系列分析、実験計画、交差検証。"
+      ],
+      [
+        "NLP・テキスト処理",
+        "日本語の分かち書き・形態素解析、単語頻度分析、テキストマイニング、感情分析、LLMを用いた情報抽出。"
+      ],
+      [
+        "Web開発・ツール",
+        "Next.js/React、HTML/CSS、Supabase/PostgreSQL、Qualtrics、Playwright/CDP、Git/GitHub、Linux、Docker、LaTeX。"
+      ],
+      [
+        "趣味・特技",
+        "音楽・ライブ、アニメ、書道、水泳。"
+      ]
+    ]
+  },
+  "en": {
+    "title": "Resume",
+    "headline": "Master's Student | Behavioral Research · HCI · Data Science",
+    "education": "Education & Academic Background",
+    "research": "Research & Academic Experience",
+    "internships": "Internships",
+    "recognition": "Scholarships & Additional Recognition",
+    "skills": "Technical Skills, Languages & Activities",
+    "programming": "Programming",
+    "methods": "Research methods",
+    "methodsText": "Experiment design, behavioral logs, temporal analysis, reproducible analysis, web-based experimental systems",
+    "background": "Statistics & Data Science (Economics)",
+    "researchBullets": [
+      [
+        "Investigating how information volume and purchasing-literacy interventions affect product comparison and choice, focusing on decision processes and psychological mechanisms.",
+        "Developing an experimental platform linking a simulated online store with surveys and preparing a participant pilot study."
+      ],
+      [
+        "Examining reply timing and conversational structure on Wikipedia and Reddit, with attention to evolving discussion rhythms and measurement bias.",
+        "Reviewing data and measurement methods and exploring models of conversational timing."
+      ],
+      [
+        "Exploring an HCI concept in a team course project for perceiving an object's internal state through sound and vibration when touching, tapping, or shaking it."
+      ]
+    ],
+    "entries": [
+      {
+        "title": "Online Decisions under Information Overload",
+        "status": "Individual research project · Ongoing",
+        "bullets": [
+          "Investigating how information overload and decision guidance shape information search and goal-consistent product choice through a 2 x 2 online shopping experiment, combining browsing behavior, purchase choices and questionnaire responses.",
+          "Developed Next.js/TypeScript shopping tasks linked to Qualtrics and Supabase, capturing browsing paths and interactions; built Python data-checking workflows and began human pilot validation."
+        ]
+      },
+      {
+        "title": "The Rhythm and Dynamics of Online Discussions: Reply Timing, Reply Structure, and Measurement Bias",
+        "status": "Collaborative research · Ongoing",
+        "bullets": [
+          "Studying Wikipedia and Reddit discussions through reply timing and conversation structure, while auditing how measurement definitions and sample selection affect the patterns inferred.",
+          "Compared TF-IDF and frozen DistilBERT classifiers on 4,582 Reddit conversation pairs, using post-level bootstrap resampling to assess whether timing features add predictive information beyond text."
+        ]
+      },
+      {
+        "title": "SSI 2026 | First Author & Presenter",
+        "status": "September 13, 2026",
+        "bullets": [
+          "Best Presentation Award, SSI Annual Conference. Accepted conference paper and oral presentation.",
+          "Information Overload and Purchasing Discernment in Online Shopping Environments: A Literature Review Focusing on Attention Allocation Processes.",
+          "Proposed a goal- and constraint-based concept of purchasing discernment; synthesized 29 studies across five research streams into a conceptual framework linking information presentation, attention allocation, search behavior and choice quality."
+        ]
+      },
+      {
+        "title": "Mobile-Game Spending Behavior",
+        "status": "Previous research project",
+        "bullets": [
+          "Examined mobile-game spending behavior in China, Japan and the U.S.; compared machine-learning models with methods for interval-censored outcomes to account for spending recorded as ranges rather than exact amounts."
+        ]
+      }
+    ],
+    "awards": [
+      "Outstanding Student Scholarship; Ji-Tong 88 Computing & Statistics Scholarship.",
+      "Second Prize, Okaya Koki Cup Japanese Speech Contest, Senior Division (Apr. 2025); Third Prize, GBA Financial Mathematical Modeling Contest (Dec. 2022).",
+      "National Undergraduate Innovation Program: funded projects in 2023 and 2024."
+    ],
+    "skillRows": [
+      [
+        "Programming & libraries",
+        "Python, R, SQL, JavaScript/TypeScript, Stata; PyTorch, NumPy, pandas, scikit-learn."
+      ],
+      [
+        "ML & research methods",
+        "Feature engineering, statistical modeling, time-series analysis, experiment design, cross-validation."
+      ],
+      [
+        "NLP & text processing",
+        "Japanese tokenization / morphological analysis, word frequencies, text mining, sentiment analysis, LLM-assisted information extraction."
+      ],
+      [
+        "Web & tools",
+        "Next.js/React, HTML/CSS, Supabase/PostgreSQL, Qualtrics, Playwright/CDP, Git/GitHub, Linux, Docker, LaTeX."
+      ],
+      [
+        "Interests",
+        "Music and live events, anime, calligraphy and swimming."
+      ]
+    ]
+  }
+}

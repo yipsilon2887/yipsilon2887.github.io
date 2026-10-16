@@ -1,0 +1,452 @@
+{
+  "ja": {
+    "lang": "ja",
+    "name": "叶毅陶",
+    "nickname": "イプシロン",
+    "title": "叶毅陶 | 東京大学 | 行動研究・HCI",
+    "description": "叶毅陶の個人サイト。東京大学大学院で、データサイエンスを基盤に行動・意思決定、コミュニケーションのネットワーク、知覚とインタラクションを研究しています。",
+    "nav": [
+      "研究",
+      "経験",
+      "私について",
+      "連絡"
+    ],
+    "skip": "本文へ",
+    "affiliation": "東京大学 学際情報学専攻 / 澁谷研究室",
+    "headline": "行動研究・HCI<br>意思決定・人と情報のインタラクション",
+    "portraitAlt": "叶毅陶の写真",
+    "bio": "データサイエンスを基盤に、人の行動と意思決定、コミュニケーションのネットワーク、知覚とインタラクションを研究し、実験システムの開発にも取り組んでいます。現在は東京大学大学院学際情報学府の修士課程で、社会情報学コース・澁谷研究室に所属しています。",
+    "researchLink": "研究を見る",
+    "cvLink": "経歴・CV",
+    "mapNote": "三つの視点から、人と情報の関係を探る",
+    "mapLabels": [
+      "行動",
+      "社会",
+      "感覚"
+    ],
+    "recognitionTitle": "発表・受賞",
+    "recognition": "2026年9月13日 · 社会情報学会 研究発表優秀賞",
+    "presentation": "「オンライン購買環境における情報過負荷と購買識別力：注意配分過程に着目した先行研究レビュー」— 口頭発表",
+    "identity": [
+      [
+        "現在",
+        "東京大学大学院 · 社会情報学コース / 澁谷研究室"
+      ],
+      [
+        "専門",
+        "統計・データサイエンス（経済分野）"
+      ],
+      [
+        "スキル",
+        "Python / R / SQL / JavaScript"
+      ]
+    ],
+    "researchTitle": "研究",
+    "researchIntro": "行動を測る、相互作用を捉える、感覚を拡張する。それぞれの問いに、分析とシステムづくりの両面から取り組んでいます。",
+    "details": "研究の背景と取り組み",
+    "detailLabels": [
+      "問い",
+      "取り組み",
+      "現在の段階"
+    ],
+    "projects": [
+      {
+        "id": "web-track",
+        "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
+        "status": "実験システム構築・パイロット準備",
+        "title": "情報過負荷下のユーザーの意思決定と心理メカニズム",
+        "summary": "情報量と購買リテラシーへの介入が、商品の比較・選択にどう関わるかを、意思決定過程と心理メカニズムに着目して研究しています。模擬ECサイトと質問紙をつないだ実験環境を開発し、パイロット実験を準備中です。",
+        "tags": [
+          "実験設計",
+          "行動ログ",
+          "Web開発"
+        ]
+      },
+      {
+        "id": "sociophysics",
+        "category": "COMPUTATIONAL SOCIAL SCIENCE",
+        "status": "データ・測定検証／モデル探索",
+        "title": "オンライン議論のリズムと展開：返信時間・構造・測定バイアス",
+        "summary": "WikipediaやRedditの対話データを用い、返信タイミング、返信構造、測定バイアスからオンライン議論のリズムと展開を調べています。データと測定方法を検証しながら、時間モデルを探索しています。",
+        "tags": [
+          "社会物理学",
+          "時系列",
+          "再現可能な分析"
+        ]
+      },
+      {
+        "id": "human-augmentation",
+        "category": "HCI · HUMAN AUGMENTATION",
+        "status": "授業プロジェクト・構想段階",
+        "title": "触覚と聴覚で捉える、見えない内部状態",
+        "summary": "触れる、たたく、揺らすことで生じる音や振動から、物体の内部状態を知覚する方法を考えています。チームプロジェクトとして、現在は初期段階にあります。",
+        "tags": [
+          "触覚・聴覚",
+          "知覚の拡張",
+          "プロトタイプ構想"
+        ]
+      }
+    ],
+    "experienceTitle": "インターンシップ",
+    "experienceIntro": "現場の課題を、<br>データとソフトウェアで考える。",
+    "jobs": [
+      {
+        "date": "2026.08",
+        "company": "Western Digital Technologies Japan",
+        "role": "5日間インターンシップ · ソフトウェアコース",
+        "text": ""
+      },
+      {
+        "date": "2024.10 — 2025.01",
+        "company": "中国南方電網",
+        "role": "データ分析インターン",
+        "text": ""
+      }
+    ],
+    "aboutTitle": "趣味・関心",
+    "personalHeading": "音楽・サブカルチャー・日々の探索",
+    "personalText": "",
+    "personalList": [
+      "好きな音楽：昭和歌謡、J-POP、City Pop、アニソン",
+      "アーティスト：宇多田ヒカル、水樹奈々、LiSA、田村ゆかり、中島由貴、水瀬いのり、藍井エイル、May'n、East Of Eden、BanG Dream!",
+      "その他の関心：ガジェット、アニメ、ゲーム、ロボット、声優、情報強者、ニュース",
+      "日々の楽しみ：聖地巡礼、スタンプラリー、アニメ関連イベント",
+      "特技：水泳（泳力検定1級相当）、書道"
+    ],
+    "communityHeading": "人とつながり、伝えること。",
+    "communityText": "",
+    "communityList": [
+      "サークル：東京大学朗読劇研究会 ／ 暨南大学日本語サークル 元副会長",
+      "語学：中国語・広東語（母語）／ 日本語 JLPT N1 ／ 英語 CEFR B2"
+    ],
+    "socialLink": "日々の記録 · 小紅書",
+    "contactTitle": "研究やものづくりの話を。",
+    "contactText": "研究交流や、データ分析・ソフトウェア開発に関する機会について、お気軽にご連絡ください。",
+    "updated": "更新：2026年10月",
+    "cvTitle": "経歴・プロフィール",
+    "educationTitle": "学歴",
+    "education": [
+      [
+        "東京大学大学院 学際情報学府",
+        "学際情報学専攻 社会情報学コース · 澁谷研究室 · 修士課程"
+      ]
+    ],
+    "print": "印刷 / PDFとして保存",
+    "back": "ホームへ",
+    "cvResearch": "現在の研究",
+    "cvSkills": "言語・活動",
+    "tabLabels": [
+      "研究",
+      "発表・受賞",
+      "インターン",
+      "趣味・関心"
+    ],
+    "tabNotes": [
+      "行動研究・HCI",
+      "社会情報学会",
+      "WDTJ・南方電網",
+      "音楽・アニメ・人とのつながり"
+    ],
+    "contentsLabel": "主な内容 / 01—04"
+  },
+  "zh": {
+    "lang": "zh-CN",
+    "name": "叶毅陶",
+    "nickname": "Yipsilon",
+    "title": "叶毅陶 | 东京大学 | 行为研究与HCI",
+    "description": "叶毅陶的个人主页：东京大学研究生，以数据科学为基础，关注行为决策、交流网络与感知交互，兼具实验系统和软件开发经历。",
+    "nav": [
+      "研究",
+      "经历",
+      "关于我",
+      "联系"
+    ],
+    "skip": "跳至正文",
+    "affiliation": "东京大学 学际情报学专攻 / 澁谷研究室",
+    "headline": "行为研究・HCI<br>行为决策&人与信息的交互",
+    "portraitAlt": "叶毅陶的照片",
+    "bio": "以数据科学为基础，关注人的行为与决策、交流网络及感知交互，并开发用于研究的实验系统。目前在东京大学大学院学际情报学府攻读硕士，所属社会情报学课程澁谷研究室。",
+    "researchLink": "探索研究",
+    "cvLink": "经历与简历",
+    "mapNote": "从三个视角，探索人与信息的关系",
+    "mapLabels": [
+      "行为",
+      "社会",
+      "感知"
+    ],
+    "identity": [
+      [
+        "目前",
+        "东京大学大学院 · 社会情报学课程 / 澁谷研究室"
+      ],
+      [
+        "背景",
+        "统计与数据科学（经济领域）"
+      ],
+      [
+        "技能",
+        "Python / R / SQL / JavaScript"
+      ]
+    ],
+    "researchTitle": "研究",
+    "researchIntro": "测量行为、理解互动、扩展感知。围绕三个不同的问题，把数据分析和系统实现结合起来。",
+    "details": "展开背景与研究内容",
+    "detailLabels": [
+      "研究问题",
+      "我的工作",
+      "目前进度"
+    ],
+    "recognitionTitle": "发表与荣誉",
+    "recognition": "2026年9月13日 · 社会情報学会「研究発表優秀賞」",
+    "presentation": "「オンライン購買環境における情報過負荷と購買識別力：注意配分過程に着目した先行研究レビュー」— 口头发表。",
+    "projects": [
+      {
+        "id": "web-track",
+        "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
+        "status": "实验平台开发 · 预实验准备",
+        "title": "信息过载下的用户决策：行为过程与心理机制",
+        "summary": "研究信息量与购买素养干预如何影响商品比较和选择，关注决策过程及其心理机制。正在开发连接模拟电商与问卷的实验平台，并准备真人预实验。",
+        "tags": [
+          "实验设计",
+          "行为日志",
+          "Web开发"
+        ]
+      },
+      {
+        "id": "sociophysics",
+        "category": "COMPUTATIONAL SOCIAL SCIENCE",
+        "status": "数据与测量核查 · 模型探索",
+        "title": "网络讨论的互动节奏与演化：回复时间、回复结构及其测量偏差",
+        "summary": "利用 Wikipedia 与 Reddit 对话数据，从回复时间、回复结构与测量偏差切入，研究网络讨论的互动节奏与演化。当前核查数据与测量方法，并探索时间模型。",
+        "tags": [
+          "社会物理学",
+          "时间序列",
+          "可复现分析"
+        ]
+      },
+      {
+        "id": "human-augmentation",
+        "category": "HCI · HUMAN AUGMENTATION",
+        "status": "课程团队项目 · 构想阶段",
+        "title": "以触觉与听觉感知不可见的内部状态",
+        "summary": "探索通过触摸、轻敲和摇晃产生的声音与振动感知物体内部状态。作为团队项目，目前处于初期阶段。",
+        "tags": [
+          "触觉、听觉、视觉",
+          "感知增强",
+          "原型构想"
+        ]
+      }
+    ],
+    "experienceTitle": "实习经历",
+    "experienceIntro": "用数据与软件，<br>理解真实场景中的问题。",
+    "jobs": [
+      {
+        "date": "2026.08",
+        "company": "Western Digital Technologies Japan",
+        "role": "5日实习 · 软件方向",
+        "text": ""
+      },
+      {
+        "date": "2024.10 — 2025.01",
+        "company": "中国南方电网",
+        "role": "数据分析实习",
+        "text": ""
+      }
+    ],
+    "aboutTitle": "兴趣与日常",
+    "personalHeading": "音乐、二次元与日常探索",
+    "personalText": "",
+    "personalList": [
+      "音乐流派：昭和歌谣、J-pop、City pop、动画歌曲",
+      "音乐人：宇多田ヒカル、水樹奈々、LiSA、田村ゆかり、中島由貴、水瀬いのり、藍井エイル、May'n、East Of Eden、BanG Dream!",
+      "其他兴趣：数码设备、动画、游戏、机器人、声优，新闻，情报强者",
+      "日常活动：圣地巡礼、集章活动、动画相关活动",
+      "特长：游泳（中国国家三级运动员水平）、书法"
+    ],
+    "communityHeading": "与人交流，把事情讲清楚。",
+    "communityText": "",
+    "communityList": [
+      "社团：东京大学朗读剧研究会 ／ 暨南大学日语社前副会长",
+      "语言：普通话、粤语（母语）／ 日语 JLPT N1 ／ 英语 CEFR B2"
+    ],
+    "socialLink": "我的生活记录 · 小红书",
+    "contactTitle": "聊聊研究，也聊聊创造。",
+    "contactText": "欢迎交流研究，或联系数据分析与软件开发相关的合作及工作机会。",
+    "updated": "更新于2026年10月",
+    "cvTitle": "经历与个人简介",
+    "educationTitle": "教育背景",
+    "education": [
+      [
+        "东京大学大学院 学际情报学府",
+        "学际情报学专攻 社会情报学课程 · 澁谷研究室 · 硕士在读"
+      ]
+    ],
+    "print": "打印 / 保存为PDF",
+    "back": "返回主页",
+    "cvResearch": "当前研究",
+    "cvSkills": "语言与活动",
+    "tabLabels": [
+      "研究",
+      "发表与荣誉",
+      "实习经历",
+      "兴趣爱好"
+    ],
+    "tabNotes": [
+      "行为研究・HCI",
+      "社会情報学会",
+      "西部数据・南方电网",
+      "音乐・动画・人与人的联系"
+    ],
+    "contentsLabel": "主要内容 / 01—04"
+  },
+  "en": {
+    "lang": "en",
+    "name": "Yitao Ye",
+    "nickname": "Yipsilon",
+    "title": "Yitao Ye | The University of Tokyo | Behavioral Research & HCI",
+    "description": "Yitao Ye is a graduate student at the University of Tokyo, studying behavior and decisions, communication networks, and perceptual interaction through data science and experimental systems.",
+    "nav": [
+      "Research",
+      "Experience",
+      "About",
+      "Contact"
+    ],
+    "skip": "Skip to content",
+    "affiliation": "The University of Tokyo · Interdisciplinary Information Studies / Shibuya Lab",
+    "headline": "Behavioral Research & HCI<br>Behavioral decisions & human–information interaction",
+    "portraitAlt": "Portrait of Yitao Ye",
+    "bio": "Grounded in data science, I study human behavior and decisions, communication networks, and perceptual interaction, while developing experimental systems for research. I am currently a master's student at the University of Tokyo's Graduate School of Interdisciplinary Information Studies, in the Socio-information and Communication Studies Course Shibuya Lab.",
+    "researchLink": "Explore my research",
+    "cvLink": "Profile & CV",
+    "mapNote": "Three perspectives on people and information",
+    "mapLabels": [
+      "Behavior",
+      "Society",
+      "Perception"
+    ],
+    "identity": [
+      [
+        "CURRENT",
+        "The University of Tokyo · Socio-information and Communication Studies Course / Shibuya Lab"
+      ],
+      [
+        "BACKGROUND",
+        "Statistics & Data Science (Economics)"
+      ],
+      [
+        "SKILLS",
+        "Python / R / SQL / JavaScript"
+      ]
+    ],
+    "researchTitle": "Research",
+    "researchIntro": "Measuring behavior, understanding interaction and extending perception. Three questions approached through both analysis and system building.",
+    "details": "Background & research approach",
+    "detailLabels": [
+      "Question",
+      "My work",
+      "Current stage"
+    ],
+    "projects": [
+      {
+        "id": "web-track",
+        "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
+        "status": "Experimental platform · Pilot preparation",
+        "title": "User decisions under information overload: processes and psychological mechanisms",
+        "summary": "I study how information load and purchase-literacy interventions shape product comparison and choice, focusing on decision processes and psychological mechanisms. I am developing an experimental platform connecting a simulated shopping site with questionnaires, and preparing a participant pilot.",
+        "tags": [
+          "Experiment design",
+          "Behavioral logs",
+          "Web development"
+        ]
+      },
+      {
+        "id": "sociophysics",
+        "category": "COMPUTATIONAL SOCIAL SCIENCE",
+        "status": "Data and measurement audit · Model exploration",
+        "title": "The Rhythm and Dynamics of Online Discussions: Reply Timing, Reply Structure, and Measurement Bias",
+        "summary": "Using Wikipedia and Reddit conversation data, I study discussion rhythms and evolution through reply timing, reply structure and measurement bias. Current work examines data and measurement choices while exploring temporal models.",
+        "tags": [
+          "Sociophysics",
+          "Temporal analysis",
+          "Reproducibility"
+        ]
+      },
+      {
+        "id": "human-augmentation",
+        "category": "HCI · HUMAN AUGMENTATION",
+        "status": "Course team project · Concept development",
+        "title": "Sensing hidden internal states through touch and sound",
+        "summary": "I explore how sounds and vibrations from touching, tapping or shaking objects could reveal their internal states. This team project is currently at an early stage.",
+        "tags": [
+          "Touch & sound",
+          "Human augmentation",
+          "Prototype concept"
+        ]
+      }
+    ],
+    "recognitionTitle": "Presentation & recognition",
+    "recognition": "13 September 2026 · 社会情報学会 Research Presentation Excellence Award",
+    "presentation": "Oral presentation: “Information overload and purchase literacy in online shopping environments: a review of prior research focusing on attention allocation.”",
+    "experienceTitle": "Internships",
+    "experienceIntro": "Thinking through real problems<br>with data and software.",
+    "jobs": [
+      {
+        "date": "2026.08",
+        "company": "Western Digital Technologies Japan",
+        "role": "Five-day internship · Software course",
+        "text": ""
+      },
+      {
+        "date": "2024.10 — 2025.01",
+        "company": "China Southern Power Grid",
+        "role": "Data Analyst Intern",
+        "text": ""
+      }
+    ],
+    "aboutTitle": "Interests",
+    "personalHeading": "Music, anime culture & everyday exploration",
+    "personalText": "",
+    "personalList": [
+      "Music: Showa-era popular songs, J-pop, City pop and anime songs (Anisong)",
+      "Artists: Hikaru Utada, Nana Mizuki, LiSA, Yukari Tamura, Yuki Nakashima, Inori Minase, Eir Aoi, May'n, East Of Eden and BanG Dream!",
+      "Other interests: digital gadgets, anime, games, robot, voice actors, information-rich",
+      "Everyday activities: anime pilgrimages, stamp rallies and anime-related events",
+      "Skills: swimming (China's national Level 3 athlete standard) and calligraphy"
+    ],
+    "communityHeading": "Connecting with people and ideas.",
+    "communityText": "",
+    "communityList": [
+      "Clubs: UTokyo Reading Drama Club; former vice president of Jinan University Japanese Culture Club",
+      "Languages: Mandarin & Cantonese (native) / Japanese JLPT N1 / English CEFR B2"
+    ],
+    "socialLink": "Life notes · Xiaohongshu",
+    "contactTitle": "Let's talk research and making things.",
+    "contactText": "I welcome conversations about research, collaboration and opportunities in data analysis and software development.",
+    "updated": "Updated October 2026",
+    "cvTitle": "Profile & CV",
+    "educationTitle": "Education",
+    "education": [
+      [
+        "The University of Tokyo · Graduate School of Interdisciplinary Information Studies",
+        "Department of Interdisciplinary Information Studies · Socio-information and Communication Studies Course · Shibuya Lab · Master's student"
+      ]
+    ],
+    "print": "Print / Save as PDF",
+    "back": "Back to home",
+    "cvResearch": "Current research",
+    "cvSkills": "Languages & activities",
+    "tabLabels": [
+      "Research",
+      "Recognition",
+      "Internships",
+      "Interests"
+    ],
+    "tabNotes": [
+      "Behavioral Research · HCI",
+      "Research presentation",
+      "WDTJ · Southern Power Grid",
+      "Music · Anime · Connecting with People"
+    ],
+    "contentsLabel": "Explore / 01—04"
+  }
+}
