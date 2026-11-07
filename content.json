@@ -53,7 +53,7 @@
       {
         "id": "web-track",
         "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
-        "status": "実験システム構築・パイロット準備",
+        "status": "2025年10月 - 現在 · 実験システム構築・パイロット準備",
         "title": "情報過負荷下のユーザーの意思決定と心理メカニズム",
         "summary": "情報量と購買リテラシーへの介入が、商品の比較・選択にどう関わるかを、意思決定過程と心理メカニズムに着目して研究しています。模擬ECサイトと質問紙をつないだ実験環境を開発し、パイロット実験を準備中です。",
         "tags": [
@@ -65,7 +65,7 @@
       {
         "id": "sociophysics",
         "category": "COMPUTATIONAL SOCIAL SCIENCE",
-        "status": "データ・測定検証／モデル探索",
+        "status": "2026年9月 - 現在 · データ・測定検証／モデル探索",
         "title": "オンライン議論のリズムと展開：返信時間・構造・測定バイアス",
         "summary": "WikipediaやRedditの対話データを用い、返信タイミング、返信構造、測定バイアスからオンライン議論のリズムと展開を調べています。データと測定方法を検証しながら、時間モデルを探索しています。",
         "tags": [
@@ -77,7 +77,7 @@
       {
         "id": "human-augmentation",
         "category": "HCI · HUMAN AUGMENTATION",
-        "status": "授業プロジェクト・構想段階",
+        "status": "2026年10月 - 現在 · 授業プロジェクト・構想段階",
         "title": "触覚と聴覚で捉える、見えない内部状態",
         "summary": "触れる、たたく、揺らすことで生じる音や振動から、物体の内部状態を知覚する方法を考えています。チームプロジェクトとして、現在は初期段階にあります。",
         "tags": [
@@ -203,7 +203,7 @@
       {
         "id": "web-track",
         "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
-        "status": "实验平台开发 · 预实验准备",
+        "status": "2025年10月 - 至今 · 实验平台开发 · 预实验准备",
         "title": "信息过载下的用户决策：行为过程与心理机制",
         "summary": "研究信息量与购买素养干预如何影响商品比较和选择，关注决策过程及其心理机制。正在开发连接模拟电商与问卷的实验平台，并准备真人预实验。",
         "tags": [
@@ -215,7 +215,7 @@
       {
         "id": "sociophysics",
         "category": "COMPUTATIONAL SOCIAL SCIENCE",
-        "status": "数据与测量核查 · 模型探索",
+        "status": "2026年9月 - 至今 · 数据与测量核查 · 模型探索",
         "title": "网络讨论的互动节奏与演化：回复时间、回复结构及其测量偏差",
         "summary": "利用 Wikipedia 与 Reddit 对话数据，从回复时间、回复结构与测量偏差切入，研究网络讨论的互动节奏与演化。当前核查数据与测量方法，并探索时间模型。",
         "tags": [
@@ -227,7 +227,7 @@
       {
         "id": "human-augmentation",
         "category": "HCI · HUMAN AUGMENTATION",
-        "status": "课程团队项目 · 构想阶段",
+        "status": "2026年10月 - 至今 · 课程团队项目 · 构想阶段",
         "title": "以触觉与听觉感知不可见的内部状态",
         "summary": "探索通过触摸、轻敲和摇晃产生的声音与振动感知物体内部状态。作为团队项目，目前处于初期阶段。",
         "tags": [
@@ -350,7 +350,7 @@
       {
         "id": "web-track",
         "category": "BEHAVIORAL DATA · ONLINE DECISIONS",
-        "status": "Experimental platform · Pilot preparation",
+        "status": "Oct. 2025 - Present · Experimental platform · Pilot preparation",
         "title": "User decisions under information overload: processes and psychological mechanisms",
         "summary": "I study how information load and purchase-literacy interventions shape product comparison and choice, focusing on decision processes and psychological mechanisms. I am developing an experimental platform connecting a simulated shopping site with questionnaires, and preparing a participant pilot.",
         "tags": [
@@ -362,7 +362,7 @@
       {
         "id": "sociophysics",
         "category": "COMPUTATIONAL SOCIAL SCIENCE",
-        "status": "Data and measurement audit · Model exploration",
+        "status": "Sep. 2026 - Present · Data and measurement audit · Model exploration",
         "title": "The Rhythm and Dynamics of Online Discussions: Reply Timing, Reply Structure, and Measurement Bias",
         "summary": "Using Wikipedia and Reddit conversation data, I study discussion rhythms and evolution through reply timing, reply structure and measurement bias. Current work examines data and measurement choices while exploring temporal models.",
         "tags": [
@@ -374,7 +374,7 @@
       {
         "id": "human-augmentation",
         "category": "HCI · HUMAN AUGMENTATION",
-        "status": "Course team project · Concept development",
+        "status": "Oct. 2026 - Present · Course team project · Concept development",
         "title": "Sensing hidden internal states through touch and sound",
         "summary": "I explore how sounds and vibrations from touching, tapping or shaking objects could reveal their internal states. This team project is currently at an early stage.",
         "tags": [
